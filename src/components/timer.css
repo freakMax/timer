@@ -1,0 +1,25 @@
+.timer {
+  padding-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.time-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  background-color: #bd2000;
+  color: white;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.time-section:last-child {
+  margin-right: 0;
+}
